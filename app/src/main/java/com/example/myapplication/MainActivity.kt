@@ -19,9 +19,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.ViewModelProvider
-import com.example.myapplication.basic.AccessImage
-import com.example.myapplication.basic.AccessString
-import com.example.myapplication.basic.Greeting
 import com.example.myapplication.ui.theme.MyApplicationTheme
 
 class MainActivity : ComponentActivity() {
